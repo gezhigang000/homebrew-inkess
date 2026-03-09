@@ -1,5 +1,5 @@
 cask "inkess" do
-  version "2.3.0"
+  version "2.7.0"
   sha256 "ebf0e09714d6df829b51b66db2247bdcdd755eb7fc96ebc92676d7a0138733f7"
 
   url "https://download.starapp.net/Inkess-macOS-arm64.dmg"
