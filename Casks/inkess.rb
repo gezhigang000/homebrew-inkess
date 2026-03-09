@@ -13,7 +13,7 @@ cask "inkess" do
   app "Inkess.app"
 
   zap trash: [
-    "~/.local/share/inkess",
+    "~/Library/Application Support/inkess",
     "~/Library/Preferences/com.inkess.app.plist",
     "~/Library/Saved Application State/com.inkess.app.savedState",
   ]
