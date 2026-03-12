@@ -1,5 +1,5 @@
 cask "inkess" do
-  version "2.8.3"
+  version "2.8.4"
 
   on_arm do
     sha256 "c98f92cfd6fa7e5da517e0606b67b595ca6b23f2bf567b42a407eb22b1b32822"
