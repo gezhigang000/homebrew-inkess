@@ -1,13 +1,13 @@
 cask "inkess" do
-  version "2.7.1"
+  version "2.8.2"
 
   on_arm do
-    sha256 "b141f812ca4ea4f592e170b0461dbeda45b336511797cebb8de0c1a91b429709"
+    sha256 "416f4139e5bf4fac3b22dbecdcf665817777ef8e2a50e022056414f784039fbe"
     url "https://download.starapp.net/Inkess-macOS-arm64.dmg"
   end
 
   on_intel do
-    sha256 "1e313f92418b0349e233503b6e0c0ea33c867473bf2438508510b8840e89be76"
+    sha256 "ff11e1651f11d6d1050582a23cf72837a703c947cf24fc6175ad5773bed8ba2f"
     url "https://download.starapp.net/Inkess-macOS-x64.dmg"
   end
 
